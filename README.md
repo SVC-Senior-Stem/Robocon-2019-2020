@@ -1,6 +1,6 @@
 # Robocon-2019-2020
 
-See the wiki for more information
+See the [wiki](https://github.com/SVC-Senior-Stem/Robocon-2019-2020/wiki) for more information
 
 
 How to use this repo:
