@@ -1,6 +1,6 @@
 # Robocon-2019-2020
 
-##How to use this repo:
+How to use this repo:
 
 There will be final file containing all the code we are going to use in the master branch.
 This should only be pushed to when we are 100% certain on a piece of code
