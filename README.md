@@ -1,5 +1,8 @@
 # Robocon-2019-2020
 
+See the wiki for more information
+
+
 How to use this repo:
 
 There will be final file containing all the code we are going to use in the master branch.
